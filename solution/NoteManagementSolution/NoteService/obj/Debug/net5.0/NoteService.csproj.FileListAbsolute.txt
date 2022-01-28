@@ -1,0 +1,62 @@
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\appsettings.Development.json
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\appsettings.json
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.exe
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.deps.json
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.runtimeconfig.json
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.runtimeconfig.dev.json
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\ref\NoteService.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.pdb
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.csproj.AssemblyReference.cache
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.AssemblyInfoInputs.cache
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.AssemblyInfo.cs
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.csproj.CoreCompileInputs.cache
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.MvcApplicationPartsAssemblyInfo.cache
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\staticwebassets\NoteService.StaticWebAssets.Manifest.cache
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\staticwebassets\NoteService.StaticWebAssets.xml
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\scopedcss\bundle\NoteService.styles.css
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.RazorTargetAssemblyInfo.cache
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\ref\NoteService.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.pdb
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.genruntimeconfig.cache
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Note Management System\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.csproj.CopyComplete
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\appsettings.Development.json
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\appsettings.json
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.exe
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.deps.json
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.runtimeconfig.json
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.runtimeconfig.dev.json
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\ref\NoteService.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\NoteService.pdb
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.csproj.AssemblyReference.cache
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.AssemblyInfoInputs.cache
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.AssemblyInfo.cs
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.csproj.CoreCompileInputs.cache
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\staticwebassets\NoteService.StaticWebAssets.Manifest.cache
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\staticwebassets\NoteService.StaticWebAssets.xml
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\scopedcss\bundle\NoteService.styles.css
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.RazorTargetAssemblyInfo.cache
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.csproj.CopyComplete
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\ref\NoteService.dll
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.pdb
+C:\Demo projects\Note-Mgt\solution\NoteManagementSolution\NoteService\obj\Debug\net5.0\NoteService.genruntimeconfig.cache
